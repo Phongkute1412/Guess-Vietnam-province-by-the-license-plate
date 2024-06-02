@@ -4,9 +4,10 @@
 
 Vietnam comprises 63 provinces, each with its own distinct license plate. For instance, if you spot a motorcycle or car on the street bearing a license plate such as 43#xxxxx, it indicates that the vehicle originates from Da Nang City.
 
+
 <p align="center">
   <img width="391" alt="Screen Shot 2024-06-02 at 21 46 44" src="https://github.com/Phongkute1412/Guess-Vietnam-province-by-the-license-plate/assets/51070620/c36f8ef3-e0b6-4e9b-9d65-c715b973e4ec">
-  <img width="414" alt="Screen Shot 2024-04-23 at 18 25 49" src="https://github.com/Phongkute1412/Game-guess-Vietnam-province-by-the-license-plate/assets/51070620/09f42d66-cd5d-46b8-85e9-7b4b2495e907">
+  <img width="414" alt="Screen Shot 2024-06-02 at 23 31 02" src="https://github.com/Phongkute1412/Guess-Vietnam-province-by-the-license-plate/assets/51070620/2a9dd56e-3997-4f5e-adac-82cd2519e968">
   <img width="264" alt="Screen Shot 2024-06-02 at 21 35 37" src="https://github.com/Phongkute1412/Guess-Vietnam-province-by-the-license-plate/assets/51070620/e0feae35-5e48-4a00-8b7a-edf3b41cff62"><br/>
   <i>*Set information, time and mode</i>
 </p>
