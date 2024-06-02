@@ -32,3 +32,16 @@ Vietnam comprises 63 provinces, each with its own distinct license plate. For in
 
 I'm someone who enjoys striking up conversations with strangers, and I'm always amazed by how people can guess my hometown from various cues like my voice, gestures, or even my license plate number. Just picture the surprise on someone's face when you ask, "Are you from Da Nang City?" They'll be taken aback that you've figured it out without them saying a word.
 
+## How to use
+
+To run and play the game, you need to install Java and an IDE. The IDE I'm using is Eclipse. Then follow these steps:
+
+1. Install Java.
+2. Install an IDE.
+3. Clone the repository or download the project.
+4. Open the project in the IDE.
+5. Run the file GuessProvinceGame.java.
+
+Enjoy playing the Guess Province Game!
+
+
